@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">便签</string>
+    <string name="search">搜索</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="menu_choose">全选</string>
+    <string name="menu_delete">删除</string>
+    <string name="menu_reverse">反选</string>
+    <string name="menu_actionbar_note">分享</string>
+    <string name="menu_navigation_about">关于</string>
+</resources>
